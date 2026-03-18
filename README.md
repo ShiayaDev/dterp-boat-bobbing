@@ -1,3 +1,7 @@
+
+
+
+
 # DTERP Boat Bobbing
 
 A lightweight FiveM script that prevents boats from drifting when the engine is off.
@@ -25,7 +29,7 @@ None (Standalone)
 
 Prevents boats from drifting when idle.
 <video width="320" height="240" controls>
-  <source src="(https://github.com/user-attachments/assets/de6a21b2-3e92-48a3-af06-a75bab658e9b)"
+  <source src="https://github.com/user-attachments/assets/0448d90e-3f4a-4e70-93e8-472b24114ce4"
 </video>
 
 
