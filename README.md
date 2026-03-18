@@ -28,10 +28,8 @@ None (Standalone)
 ## Preview
 
 Prevents boats from drifting when idle.
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/0448d90e-3f4a-4e70-93e8-472b24114ce4"
+<video src="https://github.com/user-attachments/assets/0448d90e-3f4a-4e70-93e8-472b24114ce4" controls="controls" muted="muted" width="100%">
 </video>
-
 
 ## License
 
