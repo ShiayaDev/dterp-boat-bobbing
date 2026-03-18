@@ -1,2 +1,29 @@
-# dterp-boat-bobbing
-Lightweight FiveM script preventing boats from drifting when idle.
+# DTERP Boat Bobbing
+
+A lightweight FiveM script that prevents boats from drifting when the engine is off.
+
+## Features
+✔ Low CPU usage  
+✔ Boat-only detection  
+✔ Driver-only checks  
+✔ Optimized loop timing  
+
+## Installation
+
+1. Download the latest release
+2. Place the folder in your `resources` directory
+3. Add to your `server.cfg`
+
+ensure dterp-boat-bobbing
+
+## Requirements
+
+None (Standalone)
+
+## Preview
+
+Prevents boats from drifting when idle.
+
+## License
+
+MIT License
