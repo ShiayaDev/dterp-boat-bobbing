@@ -1,9 +1,11 @@
 CreateThread(function()
     -- Start an infinite loop so the script constantly checks the player's state
     while true do
-
         -- Default wait time to reduce CPU usage when nothing important is happening
         local sleep = 1000
+        
+        -- Wait the set amount of time before running the loop again
+        Wait(sleep)
 
         -- Get the player's ped (character)
         local ped = PlayerPedId()
@@ -44,8 +46,5 @@ CreateThread(function()
                 end
             end
         end
-
-        -- Wait the set amount of time before running the loop again
-        Wait(sleep)
     end
 end)
